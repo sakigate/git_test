@@ -7,3 +7,5 @@
 # git_test7
 
 topic-A
+
+topic-B
